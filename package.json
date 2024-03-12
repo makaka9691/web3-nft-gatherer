@@ -1,0 +1,22 @@
+{
+  "name": "web3-nft-gatherer",
+  "version": "1.1.0",
+  "description": "A utility for fetching and displaying Ethereum-based NFT collections.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "web3": "^1.6.0",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  },
+  "author": "makaka9691",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makaka9691/web3-nft-gatherer"
+  }
+}
